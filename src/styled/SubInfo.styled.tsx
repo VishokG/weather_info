@@ -14,7 +14,7 @@ export const Sub = styled.div`
 export const SubPart = styled.div`
     align-items: center;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 45%;
     height: 50px;
     border-bottom:  dashed darkgray 3px;
